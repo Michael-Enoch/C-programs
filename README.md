@@ -1,2 +1,5 @@
-This is a simple temperature conversion program using switch cases.
+#My C Projects
+ -----------
+
+This contains different projects on C programming.
 
